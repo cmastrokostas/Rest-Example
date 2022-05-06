@@ -5,7 +5,7 @@ The REST application follows the REST architectural approach. We use the REST ap
 ## Spring Boot REST API Example
 In the following example, we are going to create a REST application. In this application, we have created a list of products and return the same list. It returns the data in JSON format.
 
-Monitor swagger and play with the REST API.
+### Monitor swagger and play with the REST API.
 
 Go to:
 [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
