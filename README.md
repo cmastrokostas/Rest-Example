@@ -11,4 +11,5 @@ Go to:
 [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
 
 ### This example was created for the course of "Advanced Programming Techniques" 2021-2022.
-Check Original Assignments on /assignmments
+
+Check Original Assignments on /assignmments. 
