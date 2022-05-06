@@ -8,6 +8,7 @@ In the following example, we are going to create a REST application. In this app
 ### Monitor swagger and play with the REST API.
 
 Run /rest.example/src/main/java/gr/upatras/rest/example/Application.java
+
 Go to:
 [http://localhost:8080/swagger-ui/](http://localhost:8080/swagger-ui/)
 
