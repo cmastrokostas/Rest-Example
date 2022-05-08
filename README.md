@@ -15,3 +15,6 @@ Go to:
 ### This example was created for the course of "Advanced Programming Techniques" 2021-2022.
 
 Check Original Assignments on /assignmments. 
+
+### Contributors 
+* Charalampos Mastrokostas (chmastrokostas@gmail.com)
