@@ -1,22 +1,11 @@
 package gr.upatras.rest.example;
 
 public class Product {
-	
 	private int id;
 	private String pname;
 	private String batchno;
 	private double price;
 	private int noofproduct;
-	
-	
-	public Product(int id, String pname, String batchno, double price, int noofproduct) {
-		super();
-		this.id = id;
-		this.pname = pname;
-		this.batchno = batchno;
-		this.price = price;
-		this.noofproduct = noofproduct;
-	}
 
 	public int getId() {
 		return id;
@@ -58,4 +47,12 @@ public class Product {
 		this.noofproduct = noofproduct;
 	}
 
+	public Product(int id, String pname, String batchno, double price, int noofproduct) {
+		super();
+		this.id = id;
+		this.pname = pname;
+		this.batchno = batchno;
+		this.price = price;
+		this.noofproduct = noofproduct;
+	}
 }
